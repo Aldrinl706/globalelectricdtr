@@ -1,0 +1,2 @@
+# globalelectricdtr
+DTR Weekly
